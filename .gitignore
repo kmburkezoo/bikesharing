@@ -1,3 +1,7 @@
+# Large source files
+201908-citibike-tripdata.csv
+citibike_tripdata_dt.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
